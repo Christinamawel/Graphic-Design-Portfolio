@@ -1,4 +1,4 @@
-const images = ["img/project 09 peeling sky.jpg", "img/project 06 text interaction 1.jpg", "img/Anaglyph project.jpg","img/Class Project 12 Boat in a bottle.jpg"]
+const images = ["img/project 06 text interaction 1.jpg", "img/Anaglyph project.jpg", "img/tv show coasters.png", "img/bridal shower game.jpg", "img/Class Project 12 Boat in a bottle.jpg"]
 let currentImageNum = 0;
 const currentImage = document.getElementById("current-image");
 
